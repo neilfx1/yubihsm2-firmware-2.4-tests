@@ -6,13 +6,14 @@ This repo provides a set of practical test cases for validating firmware 2.4+ on
 
 ## 🔍 Tests Included
 
-1. PKCS1v15 Encryption/Decryption
-2. RSA-OAEP Encryption/Decryption
-3. Asymmetric Authentication
-4. AES-CBC Encryption/Decryption
-5. AES-ECB Encryption/Decryption
-6. Object Export under RSA-Wrap
-7. HMAC Generation & Validation
+1. [PKCS1v15 Encryption/Decryption](01_pkvs1v15_tests.md)
+2. [RSA-OAEP Encryption/Decryption](02_rsa-oaep-tests.md)
+3. [Asymmetric Authentication](03_asmmetric-auth.md)
+4. [AES-CBC Encryption/Decryption](04_aes_cbc-encryption_decryption.md)
+5. [AES-ECB Encryption/Decryption](05_encrypt_decrypt-using-aesecb.md)
+6. [Object Export under RSA-Wrap](06_export-under-wrap_RSA.md)
+7. [HMAC Generation & Validation](07_hmac-generation-validation.md)
+
 
 Each test includes:
 - OpenSSL command sequences
