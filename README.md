@@ -28,7 +28,7 @@ Each test includes:
 
 ## 📚 References
 
-- [YubiHSM2 User Guide](https://docs.yubico.com/hardware/yubihsm-2/)
+- [YubiHSM2 User Guide](https://docs.yubico.com/hardware/yubihsm-2/hsm-2-user-guide/)
 - [YubiHSM2 SDK Releases](https://developers.yubico.com/YubiHSM2/Releases/)
 
 ---
